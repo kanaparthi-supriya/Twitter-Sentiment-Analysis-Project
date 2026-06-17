@@ -1,5 +1,7 @@
-Twitter Sentiment Dataset
+Twitter Sentiment Dataset project
 
+Dataset Name: Twitter Sentiment Dataset
+File Name: [Twitter_Data.csv](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset)
 Dataset Information
 
 Dataset Size: 31 MB
