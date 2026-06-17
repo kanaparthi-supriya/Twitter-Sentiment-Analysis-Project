@@ -1,7 +1,5 @@
 Twitter Sentiment Dataset
 
-The Twitter Sentiment Dataset contains Twitter tweets along with their sentiment labels. It is widely used for sentiment analysis and text classification tasks in Natural Language Processing (NLP).
-
 Dataset Information
 
 Dataset Size: 31 MB
