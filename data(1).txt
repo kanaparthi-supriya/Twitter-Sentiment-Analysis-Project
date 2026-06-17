@@ -1,0 +1,35 @@
+Twitter Sentiment Dataset
+
+The Twitter Sentiment Dataset contains Twitter tweets along with their sentiment labels. It is widely used for sentiment analysis and text classification tasks in Natural Language Processing (NLP).
+
+Dataset Information
+
+Dataset Size: 31 MB
+Number of Rows: 162,980
+Number of Columns: 2
+
+Columns
+
+1. clean_text
+   Contains the cleaned text of tweets collected from Twitter.
+
+2. category
+   Represents the sentiment associated with each tweet.
+
+Sentiment Labels
+
+1 = Positive
+0 = Neutral
+-1 = Negative
+
+Dataset Type
+
+Text Dataset
+
+Domain
+
+Natural Language Processing (NLP)
+
+Purpose
+
+The dataset is used to analyze public opinions, identify sentiment patterns, and classify tweets into Positive, Negative, or Neutral categories. It helps in understanding customer opinions, social media trends, and public reactions toward various topics.
